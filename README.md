@@ -92,9 +92,9 @@ Screenshots are available under `dashboard_screenshots/` to view:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/amazon-product-sales-dashboard.git
-   cd amazon-product-sales-dashboard
-2. Open Amazon_Products_Dashboard.pbix in Power BI Desktop.
+   git clone https://github.com/Harshita-bioinfo/Amazon-sales-dashboard.git
+   cd Amazon-sales-dashboard
+2. Open Data Visualization Dashboard.pbix in Power BI Desktop.
 
 3. Interact with slicers and visuals to explore insights.
 
